@@ -1,16 +1,12 @@
-### Hi there 👋
+### Welcome to my profile! 👋
 
-<!--
-**marcosbustamantemateo/marcosbustamantemateo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Hi, I´m Marcos, passionate about innovation and clean code. Turning ideas into solutions through programming. Exploring the fascinating world of software development. 
+Let's build the future of code together! 💻✨ 
+#CodeCraftsman #Innovator #OpenSourceEnthusiast 🌐
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning everything I can
+- 👯 I’m looking to collaborate on new side projects
+- 🤔 I’m looking for help with IA and Cloud
+- 💬 Ask me about web development, MES/MOM development (Industry 4.0)
+- 📫 How to reach me: www.marcosbustamantemateo.com
+- ⚡ Fun fact: Sometimes I forget to speak in English and go back to Spanish.
